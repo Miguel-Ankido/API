@@ -10,6 +10,7 @@ server.use(cors());
 server.use(middlewares);
 server.use(router);
 
+
 server.listen(port, () => {
   console.log(`JSON Server está rodando na porta ${port}`);
 });
