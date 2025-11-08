@@ -1,11 +1,17 @@
 {
   "users": [
-    { "id": 1,
-     "email": "teste@teste.com",
-     "password": "123",
+   {
+      "id": 1,
+      "email": "teste@teste.com",
+      "password": "123",
       "nomeCompleto": "Usuário de Teste",
       "telefone": "(11) 91234-5678",
-      "endereco": "Rua Exemplo, 123, Bairro, Cidade - SP" }
+      "rua": "Rua Exemplo",
+      "numero": "123",
+      "bairro": "Bairro Teste",
+      "cep": "12345-678",
+      "cidade": "São Paulo"
+    }
   ],
   "produtos": [
     { "id": "1", "name": "Camisa Chico Moedas Preto", "price": "149,90", "image": "/images/Camisa-chico.png" },
