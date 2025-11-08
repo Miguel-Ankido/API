@@ -28,5 +28,6 @@
     { "id": "10", "name": "Camiseta Zeos", "oldPrice": "239,99", "price": "189,00", "image": "/images/cavalo-removebg-preview.png" },
     { "id": "11", "name": "Camiseta Treina Fofo", "oldPrice": "239,99", "price": "169,00", "image": "/images/cavalo-removebg-preview.png" },
     { "id": "12", "name": "Camiseta Ñ Queria Ter Vindo", "oldPrice": "239,99", "price": "189,00", "image": "/images/cavalo-removebg-preview.png" }
-  ]
+  ],
+  "cards": []
 }
