@@ -14,20 +14,17 @@
     }
   ],
   "produtos": [
-    { "id": "1", "name": "Camisa Chico Moedas Preto", "price": "149,90", "image": "/images/Camisa-chico.png" },
-    { "id": "2", "name": "Camisa Eos", "price": "160,00", "image": "/images/camisa-eos.png" },
-    { "id": "3", "name": "Camisa BrBrr Brr Patapim", "price": "189,00", "image": "/images/cavalo-removebg-preview.png" },
-    { "id": "4", "name": "Camisa Educação Física Não É Só Futebol", "price": "140,00", "image": "/images/cavalo-removebg-preview.png" },
-    { "id": "5", "name": "Camisa Eu Faço Programa", "price": "197,99", "image": "/images/cavalo-removebg-preview.png" },
-    { "id": "6", "name": "Camiseta Zeos", "price": "169,00", "image": "/images/cavalo-removebg-preview.png" },
-    { "id": "7", "name": "Camisa Tropa da Fidelidade", "price": "197,99", "image": "/images/cavalo-removebg-preview.png" },
-    { "id": "8", "name": "Camisa Do R10", "price": "94,00", "image": "/images/cavalo-removebg-preview.png" }
-  ],
-  "novidades": [
-    { "id": "9", "name": "Camisa Eos", "oldPrice": "239,99", "price": "160,00", "image": "/images/camisa-eos.png" },
-    { "id": "10", "name": "Camiseta Zeos", "oldPrice": "239,99", "price": "189,00", "image": "/images/cavalo-removebg-preview.png" },
-    { "id": "11", "name": "Camiseta Treina Fofo", "oldPrice": "239,99", "price": "169,00", "image": "/images/cavalo-removebg-preview.png" },
-    { "id": "12", "name": "Camiseta Ñ Queria Ter Vindo", "oldPrice": "239,99", "price": "189,00", "image": "/images/cavalo-removebg-preview.png" }
-  ],
+    { "id": "1", "name": "Camisa Chico Moedas Preto", "price": "149,90", "image": "/images/camisa-chico.png", "rating": 5 },
+    { "id": "2", "name": "Camisa Eos", "price": "160,00", "image": "/images/camisa-eos.png", "rating": 5 },
+    { "id": "3", "name": "Camisa BrBrr Brr Patapim", "price": "189,00", "image": "/images/camisa-patapim.png", "rating": 3.5 },
+    { "id": "4", "name": "Camisa Educação Física...", "price": "140,00", "image": "/images/camisa-ed-fisica.png", "rating": 4.5 },
+    { "id": "5", "name": "Camisa Eu Faço Programa", "price": "197,99", "image": "/images/camisa-programa.png", "rating": 5 },
+    { "id": "6", "name": "Camiseta Zeos", "price": "169,00", "image": "/images/camiseta-zeos.png", "rating": 5 },
+    { "id": "7", "name": "Camisa Tropa da Fidelidade", "price": "197,99", "image": "/images/camisa-fidelidade.png", "rating": 4 },
+    { "id": "8", "name": "Camisa Do R10", "price": "94,00", "image": "/images/camisa-r10.png", "rating": 4 },
+    
+    { "id": "9", "name": "Camisa Eos (Ex-Novidade)", "oldPrice": "239,99", "price": "160,00", "image": "/images/camisa-eos.png", "rating": 4.5 },
+    { "id": "10", "name": "Camiseta Zeos (Ex-Novidade)", "oldPrice": "239,99", "price": "189,00", "image": "/images/camiseta-zeos.png", "rating": 5 }
+    ],
   "cards": []
 }
