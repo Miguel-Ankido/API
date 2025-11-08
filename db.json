@@ -19,14 +19,14 @@
       "name": "Camisa Chico Moedas Preto",
       "oldPrice": null,
       "price": "149,90",
-      "image": "/images/Camisa-chico.png",
+      "image": "/images/camisa-chico.png",
       "rating": 5,
       "estoque": 10,
       "sku": "z001",
       "categoria": "CAMISAS",
-      "descricao_curta": "A Camisa Zeos Cowboy traz uma estampa marcante de um cowboy montado em seu cavalo, representando liberdade...",
-      "descricao_longa": "A Camisa Zeos Cowboy traz uma estampa marcante de um cowboy montado em seu cavalo, representando liberdade, aventura e autenticidade. Produzida em malha 100% algodão, oferece conforto, maciez e ótima durabilidade, ideal para o uso no dia a dia ou em ocasiões casuais.\n\nCom modelagem unissex e caimento leve, é perfeita para quem busca unir estilo e personalidade em uma única peça.",
-      "material": "Algodão e Poliester (70/30)"
+      "descricao_curta": "Uma homenagem (ou não) ao investidor mais infame da internet. Estilo e bom humor em uma só peça.",
+      "descricao_longa": "Para quem entende as reviravoltas do mercado (e da vida). Esta estampa é uma referência direta a um dos momentos mais marcantes da internet brasileira, perfeita para quem leva tudo com leveza e um toque de ironia.\n\nProduzida em malha 100% algodão de alta qualidade, esta camisa oferece conforto, maciez e ótima durabilidade. Com modelagem unissex e caimento leve, é perfeita para quem busca unir estilo e personalidade. A estampa de alta definição garante cores vivas e resistentes.",
+      "material": "100% Algodão Premium"
     },
     {
       "id": "2",
@@ -38,9 +38,9 @@
       "estoque": 7,
       "sku": "z002",
       "categoria": "CAMISAS",
-      "descricao_curta": "A Camisa Eos traz uma estampa marcante de um anjo, representando a mitologia grega com um toque moderno.",
-      "descricao_longa": "A Camisa Eos traz uma estampa marcante de um anjo, representando a mitologia grega com um toque moderno.\n\nProduzida em malha 100% algodão, oferece conforto, maciez e ótima durabilidade. Com modelagem unissex e caimento leve, é perfeita para quem busca unir estilo e personalidade em uma única peça.",
-      "material": "Algodão (100%)"
+      "descricao_curta": "Inspirada na mitologia, esta camisa traz a estampa da deusa Eos, o amanhecer. Um toque de arte e cultura para o seu visual.",
+      "descricao_longa": "Leve a deusa da aurora com você. Esta peça une o clássico da mitologia grega com um design moderno e estiloso, perfeita para quem gosta de estampas com significado e história.\n\nProduzida em malha 100% algodão de alta qualidade, esta camisa oferece conforto, maciez e ótima durabilidade. Com modelagem unissex e caimento leve, é perfeita para quem busca unir estilo e personalidade. A estampa de alta definição garante cores vivas e resistentes.",
+      "material": "100% Algodão Premium"
     },
     {
       "id": "3",
@@ -52,9 +52,9 @@
       "estoque": 5,
       "sku": "z003",
       "categoria": "CAMISAS",
-      "descricao_curta": "Inspirada nos memes clássicos da internet, esta camisa é pura diversão e nostalgia.",
-      "descricao_longa": "Inspirada nos memes clássicos da internet, esta camisa é pura diversão e nostalgia. Produzida em malha 100% algodão, oferece conforto, maciez e ótima durabilidade.",
-      "material": "Algodão (100%)"
+      "descricao_curta": "Atitude e estilo old-school. Uma estampa que homenageia a era de ouro do hip-hop.",
+      "descricao_longa": "Direto dos anos 90, esta camisa captura a essência da cultura hip-hop. A estampa icônica é uma declaração de atitude, perfeita para quem curte um visual urbano e cheio de personalidade.\n\nProduzida em malha 100% algodão de alta qualidade, esta camisa oferece conforto, maciez e ótima durabilidade. Com modelagem unissex e caimento leve, é perfeita para quem busca unir estilo e personalidade. A estampa de alta definição garante cores vivas e resistentes.",
+      "material": "100% Algodão Premium"
     },
     {
       "id": "4",
@@ -66,9 +66,9 @@
       "estoque": 12,
       "sku": "z004",
       "categoria": "CAMISAS",
-      "descricao_curta": "Mais do que esporte, uma declaração de estilo de vida.",
-      "descricao_longa": "Mais do que esporte, uma declaração de estilo de vida. Produzida em malha 100% algodão, oferece conforto, maciez e ótima durabilidade.",
-      "material": "Algodão (100%)"
+      "descricao_curta": "Para os amantes de todos os esportes... menos futebol? Uma estampa irônica que desafia o óbvio.",
+      "descricao_longa": "Quebre o estereótipo! Esta camisa é para quem sabe que Educação Física vai muito além do futebol. Perfeita para usar na academia, no parque ou para mostrar seu amor por outras modalidades (ou só pela zoeira).\n\nProduzida em malha 100% algodão de alta qualidade, esta camisa oferece conforto, maciez e ótima durabilidade. Com modelagem unissex e caimento leve, é perfeita para quem busca unir estilo e personalidade. A estampa de alta definição garante cores vivas e resistentes.",
+      "material": "100% Algodão Premium"
     },
     {
       "id": "5",
@@ -80,9 +80,9 @@
       "estoque": 8,
       "sku": "z005",
       "categoria": "CAMISAS",
-      "descricao_curta": "A camisa perfeita para devs e entusiastas de tecnologia com bom humor.",
-      "descricao_longa": "A camisa perfeita para devs e entusiastas de tecnologia com bom humor. Produzida em malha 100% algodão, oferece conforto, maciez e ótima durabilidade.",
-      "material": "Algodão (100%)"
+      "descricao_curta": "A camisa oficial do dev. Deixe claro o seu tipo de programa e divirta-se com a ambiguidade.",
+      "descricao_longa": "A piada interna favorita dos programadores. Esta camisa é perfeita para usar no trabalho, em meetups ou para garantir boas risadas com quem entende do código (e da vida).\n\nProduzida em malha 100% algodão de alta qualidade, esta camisa oferece conforto, maciez e ótima durabilidade. Com modelagem unissex e caimento leve, é perfeita para quem busca unir estilo e personalidade. A estampa de alta definição garante cores vivas e resistentes.",
+      "material": "100% Algodão Premium"
     },
     {
       "id": "6",
@@ -94,9 +94,9 @@
       "estoque": 15,
       "sku": "z006",
       "categoria": "CAMISAS",
-      "descricao_curta": "A estampa clássica da Zeos, representando liberdade e o espírito cowboy.",
-      "descricao_longa": "A estampa clássica da Zeos, representando liberdade e o espírito cowboy. Produzida em malha 100% algodão, oferece conforto, maciez e ótima durabilidade.",
-      "material": "Algodão (100%)"
+      "descricao_curta": "A estampa clássica da Zeos. O espírito cowboy que representa liberdade, aventura e a essência da marca.",
+      "descricao_longa": "Esta é a nossa assinatura. A estampa Zeos Cowboy traz uma marca forte, representando liberdade, aventura e autenticidade. É a peça-chave para quem se identifica com o espírito livre.\n\nProduzida em malha 100% algodão de alta qualidade, esta camisa oferece conforto, maciez e ótima durabilidade. Com modelagem unissex e caimento leve, é perfeita para quem busca unir estilo e personalidade. A estampa de alta definição garante cores vivas e resistentes.",
+      "material": "100% Algodão Premium"
     },
     {
       "id": "7",
@@ -108,9 +108,9 @@
       "estoque": 9,
       "sku": "z007",
       "categoria": "CAMISAS",
-      "descricao_curta": "Para quem é leal aos amigos e aos memes.",
-      "descricao_longa": "Para quem é leal aos amigos e aos memes. Produzida em malha 100% algodão, oferece conforto, maciez e ótima durabilidade.",
-      "material": "Algodão (100%)"
+      "descricao_curta": "Para quem é leal à tropa! Uma estampa que celebra a amizade e as aventuras compartilhadas.",
+      "descricao_longa": "Junte a sua tripulação. Inspirada nos laços de amizade e lealdade, esta camisa é para quem valoriza a 'tropa' acima de tudo. Perfeita para usar com os amigos e mostrar quem fecha com você.\n\nProduzida em malha 100% algodão de alta qualidade, esta camisa oferece conforto, maciez e ótima durabilidade. Com modelagem unissex e caimento leve, é perfeita para quem busca unir estilo e personalidade. A estampa de alta definição garante cores vivas e resistentes.",
+      "material": "100% Algodão Premium"
     },
     {
       "id": "8",
@@ -122,9 +122,9 @@
       "estoque": 20,
       "sku": "z008",
       "categoria": "CAMISAS",
-      "descricao_curta": "Homenagem ao bruxo, o rei do drible e da alegria em campo.",
-      "descricao_longa": "Homenagem ao bruxo, o rei do drible e da alegria em campo. Produzida em malha 100% algodão, oferece conforto, maciez e ótima durabilidade.",
-      "material": "Algodão (100%)"
+      "descricao_curta": "O 'rolê aleatório' mais famoso do mundo. Uma homenagem ao bruxo, o rei do drible e da alegria.",
+      "descricao_longa": "O sorriso do futebol. Esta camisa celebra a genialidade e o carisma de Ronaldinho (R10), o jogador que nos ensinou a levar o jogo (e a vida) com mais leveza. O 'Bruxo' é eterno.\n\nProduzida em malha 100% algodão de alta qualidade, esta camisa oferece conforto, maciez e ótima durabilidade. Com modelagem unissex e caimento leve, é perfeita para quem busca unir estilo e personalidade. A estampa de alta definição garante cores vivas e resistentes.",
+      "material": "100% Algodão Premium"
     },
     {
       "id": "9",
@@ -136,9 +136,9 @@
       "estoque": 5,
       "sku": "z009",
       "categoria": "NOVIDADES",
-      "descricao_curta": "A Camisa Eos traz uma estampa marcante de um anjo, representando a mitologia grega com um toque moderno.",
-      "descricao_longa": "A Camisa Eos traz uma estampa marcante de um anjo, representando a mitologia grega com um toque moderno. Produzida em malha 100% algodão, oferece conforto, maciez e ótima durabilidade.",
-      "material": "Algodão (100%)"
+      "descricao_curta": "Inspirada na mitologia, esta camisa traz a estampa da deusa Eos, o amanhecer. Um toque de arte e cultura para o seu visual.",
+      "descricao_longa": "Leve a deusa da aurora com você. Esta peça une o clássico da mitologia grega com um design moderno e estiloso, perfeita para quem gosta de estampas com significado e história.\n\nProduzida em malha 100% algodão de alta qualidade, esta camisa oferece conforto, maciez e ótima durabilidade. Com modelagem unissex e caimento leve, é perfeita para quem busca unir estilo e personalidade. A estampa de alta definição garante cores vivas e resistentes.",
+      "material": "100% Algodão Premium"
     },
     {
       "id": "10",
@@ -150,9 +150,9 @@
       "estoque": 3,
       "sku": "z010",
       "categoria": "NOVIDADES",
-      "descricao_curta": "A estampa clássica da Zeos, representando liberdade e o espírito cowboy.",
-      "descricao_longa": "A estampa clássica da Zeos, representando liberdade e o espírito cowboy. Produzida em malha 100% algodão, oferece conforto, maciez e ótima durabilidade.",
-      "material": "Algodão (100%)"
+      "descricao_curta": "A estampa clássica da Zeos. O espírito cowboy que representa liberdade, aventura e a essência da marca.",
+      "descricao_longa": "Esta é a nossa assinatura. A estampa Zeos Cowboy traz uma marca forte, representando liberdade, aventura e autenticidade. É a peça-chave para quem se identifica com o espírito livre.\n\nProduzida em malha 100% algodão de alta qualidade, esta camisa oferece conforto, maciez e ótima durabilidade. Com modelagem unissex e caimento leve, é perfeita para quem busca unir estilo e personalidade. A estampa de alta definição garante cores vivas e resistentes.",
+      "material": "100% Algodão Premium"
     }
   ],
   "cards": [],
