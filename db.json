@@ -1,6 +1,6 @@
 {
   "users": [
-   {
+    {
       "id": 1,
       "email": "teste@teste.com",
       "password": "123",
@@ -14,17 +14,147 @@
     }
   ],
   "produtos": [
-    { "id": "1", "name": "Camisa Chico Moedas Preto","oldPrice": null, "price": "149,90", "image": "/images/Camisa-chico.png", "rating": 5 },
-    { "id": "2", "name": "Camisa Eos", "oldPrice": null,"price": "160,00", "image": "/images/camisa-eos.png", "rating": 5 },
-    { "id": "3", "name": "Camisa BrBrr Brr Patapim", "oldPrice": null,"price": "189,00", "image": "/images/camisa-patapim.png", "rating": 3.5 },
-    { "id": "4", "name": "Camisa Educação Física...", "oldPrice": null,"price": "140,00", "image": "/images/camisa-ed-fisica.png", "rating": 4.5 },
-    { "id": "5", "name": "Camisa Eu Faço Programa", "oldPrice": null,"price": "197,99", "image": "/images/camisa-programa.png", "rating": 5 },
-    { "id": "6", "name": "Camiseta Zeos", "oldPrice": null, "price": "169,00", "image": "/images/cavalo-removebg-preview.png", "rating": 5 },
-    { "id": "7", "name": "Camisa Tropa da Fidelidade","oldPrice": null, "price": "197,99", "image": "/images/camisa-fidelidade.png", "rating": 4 },
-    { "id": "8", "name": "Camisa Do R10", "oldPrice": null, "price": "94,00", "image": "/images/camisa-r10.png", "rating": 4 },
-    
-    { "id": "9", "name": "Camisa Eos", "oldPrice": "239,99", "price": "160,00", "image": "/images/camisa-eos.png", "rating": 4.5 },
-    { "id": "10", "name": "Camiseta Zeos", "oldPrice": "239,99", "price": "189,00", "image": "/images/cavalo-removebg-preview.png", "rating": 5 }
-    ],
-  "cards": []
+    {
+      "id": "1",
+      "name": "Camisa Chico Moedas Preto",
+      "oldPrice": null,
+      "price": "149,90",
+      "image": "/images/Camisa-chico.png",
+      "rating": 5,
+      "estoque": 10,
+      "sku": "z001",
+      "categoria": "CAMISAS",
+      "descricao_curta": "A Camisa Zeos Cowboy traz uma estampa marcante de um cowboy montado em seu cavalo, representando liberdade...",
+      "descricao_longa": "A Camisa Zeos Cowboy traz uma estampa marcante de um cowboy montado em seu cavalo, representando liberdade, aventura e autenticidade. Produzida em malha 100% algodão, oferece conforto, maciez e ótima durabilidade, ideal para o uso no dia a dia ou em ocasiões casuais.\n\nCom modelagem unissex e caimento leve, é perfeita para quem busca unir estilo e personalidade em uma única peça.",
+      "material": "Algodão e Poliester (70/30)"
+    },
+    {
+      "id": "2",
+      "name": "Camisa Eos",
+      "oldPrice": null,
+      "price": "160,00",
+      "image": "/images/camisa-eos.png",
+      "rating": 5,
+      "estoque": 7,
+      "sku": "z002",
+      "categoria": "CAMISAS",
+      "descricao_curta": "A Camisa Eos traz uma estampa marcante de um anjo, representando a mitologia grega com um toque moderno.",
+      "descricao_longa": "A Camisa Eos traz uma estampa marcante de um anjo, representando a mitologia grega com um toque moderno.\n\nProduzida em malha 100% algodão, oferece conforto, maciez e ótima durabilidade. Com modelagem unissex e caimento leve, é perfeita para quem busca unir estilo e personalidade em uma única peça.",
+      "material": "Algodão (100%)"
+    },
+    {
+      "id": "3",
+      "name": "Camisa BrBrr Brr Patapim",
+      "oldPrice": null,
+      "price": "189,00",
+      "image": "/images/camisa-patapim.png",
+      "rating": 3.5,
+      "estoque": 5,
+      "sku": "z003",
+      "categoria": "CAMISAS",
+      "descricao_curta": "Inspirada nos memes clássicos da internet, esta camisa é pura diversão e nostalgia.",
+      "descricao_longa": "Inspirada nos memes clássicos da internet, esta camisa é pura diversão e nostalgia. Produzida em malha 100% algodão, oferece conforto, maciez e ótima durabilidade.",
+      "material": "Algodão (100%)"
+    },
+    {
+      "id": "4",
+      "name": "Camisa Educação Física...",
+      "oldPrice": null,
+      "price": "140,00",
+      "image": "/images/camisa-ed-fisica.png",
+      "rating": 4.5,
+      "estoque": 12,
+      "sku": "z004",
+      "categoria": "CAMISAS",
+      "descricao_curta": "Mais do que esporte, uma declaração de estilo de vida.",
+      "descricao_longa": "Mais do que esporte, uma declaração de estilo de vida. Produzida em malha 100% algodão, oferece conforto, maciez e ótima durabilidade.",
+      "material": "Algodão (100%)"
+    },
+    {
+      "id": "5",
+      "name": "Camisa Eu Faço Programa",
+      "oldPrice": null,
+      "price": "197,99",
+      "image": "/images/camisa-programa.png",
+      "rating": 5,
+      "estoque": 8,
+      "sku": "z005",
+      "categoria": "CAMISAS",
+      "descricao_curta": "A camisa perfeita para devs e entusiastas de tecnologia com bom humor.",
+      "descricao_longa": "A camisa perfeita para devs e entusiastas de tecnologia com bom humor. Produzida em malha 100% algodão, oferece conforto, maciez e ótima durabilidade.",
+      "material": "Algodão (100%)"
+    },
+    {
+      "id": "6",
+      "name": "Camiseta Zeos",
+      "oldPrice": null,
+      "price": "169,00",
+      "image": "/images/cavalo-removebg-preview.png",
+      "rating": 5,
+      "estoque": 15,
+      "sku": "z006",
+      "categoria": "CAMISAS",
+      "descricao_curta": "A estampa clássica da Zeos, representando liberdade e o espírito cowboy.",
+      "descricao_longa": "A estampa clássica da Zeos, representando liberdade e o espírito cowboy. Produzida em malha 100% algodão, oferece conforto, maciez e ótima durabilidade.",
+      "material": "Algodão (100%)"
+    },
+    {
+      "id": "7",
+      "name": "Camisa Tropa da Fidelidade",
+      "oldPrice": null,
+      "price": "197,99",
+      "image": "/images/camisa-fidelidade.png",
+      "rating": 4,
+      "estoque": 9,
+      "sku": "z007",
+      "categoria": "CAMISAS",
+      "descricao_curta": "Para quem é leal aos amigos e aos memes.",
+      "descricao_longa": "Para quem é leal aos amigos e aos memes. Produzida em malha 100% algodão, oferece conforto, maciez e ótima durabilidade.",
+      "material": "Algodão (100%)"
+    },
+    {
+      "id": "8",
+      "name": "Camisa Do R10",
+      "oldPrice": null,
+      "price": "94,00",
+      "image": "/images/camisa-r10.png",
+      "rating": 4,
+      "estoque": 20,
+      "sku": "z008",
+      "categoria": "CAMISAS",
+      "descricao_curta": "Homenagem ao bruxo, o rei do drible e da alegria em campo.",
+      "descricao_longa": "Homenagem ao bruxo, o rei do drible e da alegria em campo. Produzida em malha 100% algodão, oferece conforto, maciez e ótima durabilidade.",
+      "material": "Algodão (100%)"
+    },
+    {
+      "id": "9",
+      "name": "Camisa Eos (Promoção)",
+      "oldPrice": "239,99",
+      "price": "160,00",
+      "image": "/images/camisa-eos.png",
+      "rating": 4.5,
+      "estoque": 5,
+      "sku": "z009",
+      "categoria": "NOVIDADES",
+      "descricao_curta": "A Camisa Eos traz uma estampa marcante de um anjo, representando a mitologia grega com um toque moderno.",
+      "descricao_longa": "A Camisa Eos traz uma estampa marcante de um anjo, representando a mitologia grega com um toque moderno. Produzida em malha 100% algodão, oferece conforto, maciez e ótima durabilidade.",
+      "material": "Algodão (100%)"
+    },
+    {
+      "id": "10",
+      "name": "Camiseta Zeos (Promoção)",
+      "oldPrice": "239,99",
+      "price": "189,00",
+      "image": "/images/cavalo-removebg-preview.png",
+      "rating": 5,
+      "estoque": 3,
+      "sku": "z010",
+      "categoria": "NOVIDADES",
+      "descricao_curta": "A estampa clássica da Zeos, representando liberdade e o espírito cowboy.",
+      "descricao_longa": "A estampa clássica da Zeos, representando liberdade e o espírito cowboy. Produzida em malha 100% algodão, oferece conforto, maciez e ótima durabilidade.",
+      "material": "Algodão (100%)"
+    }
+  ],
+  "cards": [],
+  "reviews": []
 }
