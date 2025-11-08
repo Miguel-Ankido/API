@@ -2,15 +2,16 @@
   "users": [
     {
       "id": 1,
-      "email": "teste@teste.com",
-      "password": "123",
-      "nomeCompleto": "Usuário de Teste",
+      "email": "admin@admin.com",
+      "password": "P@$$w0rd",
+      "nomeCompleto": "Administrador",
       "telefone": "(11) 91234-5678",
-      "rua": "Rua Exemplo",
+      "rua": "Rua E-commerce",
       "numero": "123",
-      "bairro": "Bairro Teste",
+      "bairro": "Bairro",
       "cep": "12345-678",
-      "cidade": "São Paulo"
+      "cidade": "São Paulo",
+      "isAdmin": true
     }
   ],
   "produtos": [
