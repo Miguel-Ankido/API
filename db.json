@@ -4,6 +4,7 @@
       "id": 1,
       "email": "admin@admin.com",
       "password": "P@$$w0rd",
+      "card":[],
       "nomeCompleto": "Administrador",
       "telefone": "(11) 91234-5678",
       "rua": "Rua E-commerce",
